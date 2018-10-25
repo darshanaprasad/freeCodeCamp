@@ -48,3 +48,4 @@ Here's an example to make a rounded image:
 
 - See the freeCodeCamp page on the `<img>` tag [here](https://guide.freecodecamp.org/html/elements/img-tag)
 - To get more details on images in HTML, check out the [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Img)
+- Read the W3schools `<img>` tag tutorial [here](https://www.w3schools.com/html/html_images.asp)
